@@ -11,5 +11,5 @@ public class Factorial {
 
         return n * fun(n - 1);
     }
-
+    // this will print the factorial of any number
 }
