@@ -3,7 +3,7 @@ public class Keypad {
     public static void printcombo(String str, int idx, String combination) {
         if(idx == str.length()) {
             System.out.println(combination);
-            return;v
+            return;
         }
         char currChar= str.charAt(idx);
         String mapping = keypad[currChar-'0'];
