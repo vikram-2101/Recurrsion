@@ -1,4 +1,4 @@
-/Move all x positions to the end
+//Move all x positions to the end
 public class Move {
     public static void moveall(String str, int idx,int count, String newString) {
         if(idx == str.length()) {
