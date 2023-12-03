@@ -1,4 +1,4 @@
-ergspublic class Reverse {
+hergspublic class Reverse {
     public static void main(String[] args) {
       rev1(7864);
       
