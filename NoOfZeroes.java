@@ -1,4 +1,4 @@
-gimport java.util.*;
+bgimport java.util.*;
 
 public class NoOfZeroes {
     public static void main(String[] args) {
