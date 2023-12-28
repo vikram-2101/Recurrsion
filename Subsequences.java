@@ -1,4 +1,4 @@
-public class Subsequences {
+dpublic class Subsequences {
     public static void subsequences(String str, int idx, String newString) { 
         if (idx == str.length()) {
             System.out.println(newString);
