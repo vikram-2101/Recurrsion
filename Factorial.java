@@ -1,4 +1,4 @@
-hghhfspublic class Factorial {
+hhghhfspublic class Factorial {
     public static void main(String[] args) {
         int ans = fun(5);
         System.out.println(ans);
