@@ -1,4 +1,4 @@
-chvdpublic class Nto1 {
+gchvdpublic class Nto1 {
     public static void main(String[] args) {
         fun(10);
     }
