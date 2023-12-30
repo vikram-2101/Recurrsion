@@ -1,4 +1,4 @@
-dpublic class Nto1 {
+vdpublic class Nto1 {
     public static void main(String[] args) {
         fun(10);
     }
