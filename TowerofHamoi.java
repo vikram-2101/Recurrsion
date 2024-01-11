@@ -1,4 +1,4 @@
-ffpublic class TowerofHamoi {
+gffpublic class TowerofHamoi {
     
     public static void towerofHanoi(int n, String src, String helper, String dest){
         if( n==1 ) {
