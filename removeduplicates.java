@@ -1,4 +1,4 @@
-xddpublic class removeduplicates {
+fxddpublic class removeduplicates {
     public static boolean[]  map = new boolean[26];
 
     public static void removeDuplicates(String str, int idx, String newString) {
