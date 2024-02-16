@@ -1,4 +1,4 @@
-kkkjhimport java.util.*;
+hkkkjhimport java.util.*;
 
 public class NoOfZeroes {
     public static void main(String[] args) {
